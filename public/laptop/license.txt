@@ -1,0 +1,11 @@
+Model Information:
+* title:	Microsoft Surface Pro 3 + Touch Cover
+* source:	https://sketchfab.com/3d-models/microsoft-surface-pro-3-touch-cover-24052379ad2a4a57bd313aef83305dcf
+* author:	MD.Jobair Hossain (https://sketchfab.com/samrat33k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Microsoft Surface Pro 3 + Touch Cover" (https://sketchfab.com/3d-models/microsoft-surface-pro-3-touch-cover-24052379ad2a4a57bd313aef83305dcf) by MD.Jobair Hossain (https://sketchfab.com/samrat33k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
