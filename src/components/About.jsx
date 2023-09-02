@@ -42,7 +42,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-5xl leading-[30px]'>
-      Hello! I am a 7th-semester student majoring in Information Systems, and for the past 2 years, I've embarked on an exciting journey as a freelance software engineer. I take pleasure in deciphering code and transforming it into useful web and mobile applications. I specialize in technologies like JavaScript, PHP, and the Laravel framework for web development, as well as ReactJS and React Native for crafting responsive and dynamic user interfaces. Let's connect to discuss technology or explore opportunities for great collaborations. Together, armed with these powerful tools, we can create an innovative future!
+      Coba Hello! I am a 7th-semester student majoring in Information Systems, and for the past 2 years, I've embarked on an exciting journey as a freelance software engineer. I take pleasure in deciphering code and transforming it into useful web and mobile applications. I specialize in technologies like JavaScript, PHP, and the Laravel framework for web development, as well as ReactJS and React Native for crafting responsive and dynamic user interfaces. Let's connect to discuss technology or explore opportunities for great collaborations. Together, armed with these powerful tools, we can create an innovative future!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center">
